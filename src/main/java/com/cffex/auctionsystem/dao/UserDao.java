@@ -1,8 +1,8 @@
-package com.cffex.webdemo.dao;
+package com.cffex.auctionsystem.dao;
 
 import java.util.List;
 
-import com.cffex.webdemo.bean.User;
+import com.cffex.auctionsystem.bean.User;
 
 public interface UserDao {
 	

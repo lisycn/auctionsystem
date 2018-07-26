@@ -48,7 +48,7 @@ class="org.mybatis.spring.mapper.MapperScannerConfigurer">
 	<property name="sqlSessionFactory" ref="ssf">
 	</property>
 	<property name="basePackage" 
-		value="com.cffex.webdemo.dao">
+		value="com.cffex.auctionsystem.dao">
 	</property>
 </bean>
 

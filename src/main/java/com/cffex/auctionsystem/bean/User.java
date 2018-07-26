@@ -1,4 +1,4 @@
-package com.cffex.webdemo.bean;
+package com.cffex.auctionsystem.bean;
 
 public class User {
 	

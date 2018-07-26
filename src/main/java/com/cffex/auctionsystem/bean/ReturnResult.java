@@ -1,4 +1,4 @@
-package com.cffex.webdemo.bean;
+package com.cffex.auctionsystem.bean;
 
 import java.io.Serializable;
 

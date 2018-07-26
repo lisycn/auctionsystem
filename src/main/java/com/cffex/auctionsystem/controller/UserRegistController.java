@@ -1,4 +1,4 @@
-package com.cffex.webdemo.controller;
+package com.cffex.auctionsystem.controller;
 
 import java.util.List;
 
@@ -10,9 +10,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.cffex.webdemo.bean.ReturnResult;
-import com.cffex.webdemo.bean.User;
-import com.cffex.webdemo.dao.UserDao;
+import com.cffex.auctionsystem.bean.ReturnResult;
+import com.cffex.auctionsystem.bean.User;
+import com.cffex.auctionsystem.dao.UserDao;
 
 
 @Controller

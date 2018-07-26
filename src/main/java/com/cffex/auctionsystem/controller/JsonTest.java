@@ -1,6 +1,6 @@
-package com.cffex.webdemo.controller;
+package com.cffex.auctionsystem.controller;
 
-import com.cffex.webdemo.bean.User;
+import com.cffex.auctionsystem.bean.User;
 import com.google.gson.Gson;
 
 public class JsonTest {
